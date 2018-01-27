@@ -1,37 +1,26 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About
+tags: [about, ariesmooncandles]
+date: 2017-01-01
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<!-- <center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center> -->
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## About
+Lula maintains her connection with nature by taking backpacking trips, hiking and exploring the outdoors. She has completed 400 hours of yoga teacher trainings, many years of meditation and training, and received her Reiki Master certificate. Lula is also a hair stylist and for the past 12 years she has helped women tap into their innate ability to transform.
 
-## Preview
+Combining yoga and meditation with outdoor exploration has profoundly shifted Lula’s relationship with her mind and body to conquer addiction, depression, and patterns of negative thinking.
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+Lula’s mission is to creatively help other women transform from the inside out using many methods of healing. It is her intention to bring out and create more beauty in the world through the art of transformation.
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+## Education
 
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+Laughing Lotus 200RYT
+Reiki Level 1 & 2 with Lisa Levine
+Anusara 200RYT with Tara Glazier
+Living Meditation Training with David Wagner
+Wilderness First Responder
+Reiki Master with Cynthia LoRe
+Lula Cervantes is a natural born healer based in California. Her spiritual journey began as a child riding horses, playing in the dirt, and spending time in the woods of New Jersey.
