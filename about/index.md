@@ -1,12 +1,11 @@
 ---
 layout: page
 title: About
-tags: [about, ariesmooncandles]
+tags: [about, ariesmooncandles, contact]
 date: 2017-01-01
 comments: false
 ---
-    
-<!-- <center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center> -->
+<a href="#contact">Contact</a>
 
 ## About
 Lula maintains her connection with nature by taking backpacking trips, hiking and exploring the outdoors. She has completed 400 hours of yoga teacher trainings, many years of meditation and training, and received her Reiki Master certificate. Lula is also a hair stylist and for the past 12 years she has helped women tap into their innate ability to transform.
@@ -24,3 +23,6 @@ Living Meditation Training with David Wagner
 Wilderness First Responder
 Reiki Master with Cynthia LoRe
 Lula Cervantes is a natural born healer based in California. Her spiritual journey began as a child riding horses, playing in the dirt, and spending time in the woods of New Jersey.
+<div id=contact>
+{% include form.html %}
+</div>
