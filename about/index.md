@@ -10,22 +10,11 @@ comments: false
 	<a href="https://www.etsy.com/shop/Ariesmooncandles"><img src="{{ site.url }}/assets/img/jtree.jpg" ></a>
 </figure>
 
-## About
-Lula Cervantes is a natural born healer based in California. Her spiritual journey began as a child riding horses, playing in the dirt, and spending time in the woods of New Jersey.
-Lula maintains her connection with nature by taking backpacking trips, hiking and exploring the outdoors. She has completed 400 hours of yoga teacher trainings, many years of meditation and training, and received her Reiki Master certificate. Lula is also a hair stylist and for the past 12 years she has helped women tap into their innate ability to transform.
+## Our Mission
 
-Combining yoga and meditation with outdoor exploration has profoundly shifted Lula’s relationship with her mind and body to conquer addiction, depression, and patterns of negative thinking.
+Aries Moon Candles is inspired by the smell of rain in the desert,the cycles and seasons of nature, and the sweetness of connecting back to our source.
 
-Lula’s mission is to creatively help other women transform from the inside out using many methods of healing. It is her intention to bring out and create more beauty in the world through the art of transformation.
-
-## Education
-
-Laughing Lotus 200RYT  
-Reiki Level 1 & 2 with Lisa Levine  
-Anusara 200RYT with Tara Glazier  
-Living Meditation Training with David Wagner  
-Wilderness First Responder  
-Reiki Master with Cynthia Lore  
+It began in spring 2016 by Lula Cervantes, a natural born healer, certified Reiki Master, and yoga teacher. Our intention is to capture scents inspired by nature that are infused with Reiki and Mantras to promote healing in your space. We use high quality phthalate-free fragrance and essential oils, soy wax, lead-free cotton wicks and many unique holders. Set an intention and make a wish before you light your candle!
 
 
 
