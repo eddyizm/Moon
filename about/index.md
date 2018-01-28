@@ -23,6 +23,5 @@ Living Meditation Training with David Wagner
 Wilderness First Responder
 Reiki Master with Cynthia LoRe
 Lula Cervantes is a natural born healer based in California. Her spiritual journey began as a child riding horses, playing in the dirt, and spending time in the woods of New Jersey.
-<div id=contact>
+
 {% include form.html %}
-</div>
